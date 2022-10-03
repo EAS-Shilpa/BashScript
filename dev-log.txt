@@ -7,3 +7,4 @@ test cron
 testing again and again
 echo
 Test new script
+Testing on Monday
