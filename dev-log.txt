@@ -8,4 +8,4 @@ testing again and again
 echo
 Test new script
 Testing on Monday
-Test on cron
+Test on crs
